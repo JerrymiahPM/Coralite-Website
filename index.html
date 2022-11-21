@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 
 <html>
-<meta http-equiv="refresh" content="0;url=http://coralite.info">
+<script>
+var host = "coralite.info";
+if ((host == window.location.host) && (window.location.protocol != "https:"))
+    window.location.protocol = "https";
+</script>
 <header>
     <title>Coralite</title>
     <link href="style.css" rel="stylesheet"/>
