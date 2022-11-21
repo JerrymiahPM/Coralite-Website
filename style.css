@@ -1,0 +1,94 @@
+body {
+    background-color: #2b2e31;
+}
+
+.top img {
+    position: absolute !important;
+    width: 100px !important;
+}
+
+.top {
+    background-color: #36393d;
+    width: 100%;
+    height: 100px;
+}
+
+.title {
+    text-align: center;
+    padding-top: 25px;
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+}
+
+#re {
+    margin-bottom: 0;
+    text-rendering: optimizeLegibility;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 7%;
+    margin-right: 20%;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    display: inline-block;
+    width: 80%
+}
+
+.mid {
+    display: inline-block;
+    margin-left: 20%;
+    width: 50%;
+    margin-top: 5%;
+}
+.pros {
+    padding-top: 15%;
+    margin-left: 20%;
+}
+
+.largeimg {
+    display: inline-block;
+    width: 20%;
+    float: right;
+}
+
+.mid #paragraph1{
+    text-rendering: optimizeLegibility;
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 1%;
+    margin-right: 27%;
+    color: white;
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+
+.logo1 {
+    display: inline-block;
+    width: 20%;
+}
+
+
+
+.mid .invite {
+    text-rendering: optimizeLegibility;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 16%;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: white;
+    -webkit-transition: background-color 1s ease-in;
+    background-color: #12a9d7;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.invite:hover {
+    -webkit-transition: background-color 1s ease-in;
+    background-color: #0b5b74;
+}
+
+/*top line : #bcbdbe*/
