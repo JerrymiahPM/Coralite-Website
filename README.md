@@ -1,2 +1,2 @@
 # Coralite-Website
-My website for Coralite Moderation.
+My website for Coralite Verification.
